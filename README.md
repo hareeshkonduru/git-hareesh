@@ -1,0 +1,2 @@
+# git-hareesh
+git info
